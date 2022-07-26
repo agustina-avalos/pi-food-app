@@ -1,0 +1,51 @@
+
+
+.homepadre{
+    background-image : url("https://cutewallpaper.org/22/70s-aesthetic-laptop-wallpapers/aesthetic-tumblr-orange-wallpaper-laptop-allwallpaper.png");
+    width: 100%;
+    height: auto;
+   
+}
+
+.recipes_home{
+    display: flex;
+    flex-wrap: wrap; 
+    justify-content: space-between;
+    align-items:center;
+}
+
+/* img{
+    margin-top: 5%;
+} */
+.link{
+    text-decoration: none;
+
+}
+
+.btn-recargar{
+    background-color: rgb(139, 179, 203);
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+    padding: 10px 22px;
+    margin-right: 10px;
+    font-size: 15px;
+    font-style:initial;
+    border-radius: 5px;
+    cursor: pointer;
+
+}
+
+.select{
+    background-color: rgb(139, 179, 203);
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+    padding: 10px 22px;
+    margin-right: 10px;
+    font-size: 15px;
+    font-style:initial;
+    border-radius: 5px;
+    border-color: none;
+    border-style: none; 
+    cursor: pointer;
+}
+

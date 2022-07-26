@@ -1,0 +1,42 @@
+ .title{
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+    position:absolute; 
+    right: 18%;
+    top:13%;
+    font-size: 50px;
+    color: rgb(85, 151, 158);
+   
+}
+
+.imgfondo{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    overflow: hidden;
+    position: absolute;
+    left: 0;
+}
+
+.bttn{
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+    position: absolute;
+    top: 55%;
+    left: 65%;
+    background-color: rgb(43, 74, 77);
+    color: white;
+    font-size: 25px;
+    border: none;
+    padding: 10px 25px;
+    
+    z-index: 1;
+    cursor: pointer;
+    transition: 1s ease;
+
+}
+.bttn:hover{
+    background-color: rgb(149, 79, 65);
+    color: black;
+
+}

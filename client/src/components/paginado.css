@@ -1,0 +1,20 @@
+.pageNumber{
+    display:inline;
+     padding-left:6px;
+     padding-right:6px;
+    /*  font-size: 23px;
+     text-decoration: none; */
+}
+.contenedor-num{
+    background-color: rgb(139, 179, 203);
+    display:inline;
+    padding-left:6px;
+    padding-right:6px;
+    margin-right: 8px;
+    font-size: 25px;
+    border-radius: 20px;
+    cursor: pointer;
+    transition: 3s;
+}
+
+

@@ -1,0 +1,125 @@
+.padre_detail{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
+.container_name{
+    margin-left: 650px;
+    margin-top: 60px;
+    background-color: rgba(167, 165, 162, 0.727);
+    border-radius: 60px;
+    padding: 10px;
+   
+}
+
+.name_detail{
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+
+}
+
+
+
+.container_img{
+    margin-right: 780px;
+    border-radius: 150px;
+    margin-top: 30px;
+    
+}
+
+.img_detail{
+    border-radius: 70px;
+    
+   
+}
+
+
+.container_summary{
+    margin-left: 620px;
+    margin-top: -380px;
+    margin-right: 30px;
+
+}
+
+.summary_detail{
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    text-decoration-line:underline;
+}
+
+.summary_text{
+    background-color: rgba(95, 97, 100, 0.104);
+    font-size:20px ;
+    border-radius:6px ;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+
+.container_score{
+    margin-left: 200px;
+    margin-top: 20px;
+    background-color: rgba(206, 146, 61, 0.809);
+    padding: 7px;
+    border-radius: 6px;
+}
+
+.score_detail{
+    font-size: 25px;
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+  
+}
+
+.score_text{
+    font-size: 25px;
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+    margin-top: -5px;
+
+}
+
+
+.container_types{
+    margin-left: 900px;
+    margin-top: -147px;
+     background-color: rgba(206, 146, 61, 0.809); 
+    padding: 7px;
+    border-radius: 6px;
+}
+
+
+
+.types_detail{
+    font-size: 25px;
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+
+
+
+
+.container_steps{
+    margin-left: 100px; 
+    margin-right: 100px;
+}
+
+.steps_detail{
+    font-size: 30px;
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+    text-decoration-line:underline;
+}
+
+.steps_text{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    background-color: rgba(95, 97, 100, 0.104);
+
+}

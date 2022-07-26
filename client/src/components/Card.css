@@ -1,0 +1,51 @@
+.card{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 24vw;
+    height: 70vh;
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+    margin: 30px;
+    border-radius: 15px;
+    border-color: rgb(139, 179, 203, 0.761);  
+    border-style: solid;
+    background-color:rgba(255, 228, 196, 0.63);
+}
+
+.card-title{
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-size: 23px;
+    margin-left: 3px;
+    margin-top: 2px;
+    text-align: left ;
+    text-transform: uppercase;
+    text-decoration: none;
+    color: rgb(19, 18, 18);
+
+}
+.img-card{
+    border-radius: 20px ;
+    margin-top: 1px;
+    margin-bottom: -2px;
+    width:200px;
+    height:250px 
+}
+
+
+
+
+
+ .dietas{
+    display: flex;
+    flex-direction: column;
+
+    margin: 4%;
+    text-decoration: none;
+    text-overflow: none;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgba(67, 69, 70, 0.768);
+
+}
+

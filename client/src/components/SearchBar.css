@@ -1,0 +1,68 @@
+
+.navBar{
+    background-color: rgb(139, 179, 203);
+    height: 100px;
+    display: flex;
+    align-items:center;
+    margin-bottom: 20px;
+    
+}
+
+.lupa{
+    background-color: transparent;
+}
+
+button{
+    background-color:  transparent;
+    border: none;
+
+}
+
+.container-link-create{
+ background-color: rgb(104, 130, 146);
+ width: 12vw;
+ height: 7vh;
+ border-radius: 10px;
+ margin-left: 200px ;
+ margin-right: 8px;
+ 
+}
+
+.link-create{
+    display: flex;
+    text-decoration: none;
+    text-align: center;
+    margin-top: 15px;
+    margin-left: 25px;
+    color: black;
+    font-family: 'Anek Malayalam', sans-serif;
+    font-family: 'Playfair Display', serif;
+    font-size: 20px;
+    
+    
+}
+
+.lupa{
+    width: 3vw;
+    height: 3vh;
+    background-color:none;
+}
+
+
+.buscar{ 
+    display: flex;
+    margin-left: 60px;
+    height: 4vh;
+    width: 15vw;
+    margin-top: 20px;
+    border-radius: 10px;
+
+} 
+.container-search{
+    display: flex;
+    margin-left: 110px; 
+    background-color: rgb(104, 130, 146);
+    width: 30vw;
+    height: 10vh;
+    border-radius: 10px;
+}

@@ -1,0 +1,128 @@
+
+
+
+
+/* form{
+    margin-right: 300px;
+    margin-top: 70px;
+    font-size: 20px;
+    background-color: chocolate;
+    
+
+} */
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 45px;
+}
+
+form{
+    display:flex;
+    flex-direction: column; 
+    align-items: center;
+    background-color: chocolate;
+    margin-left: 10%;
+    margin-right: 10%;
+
+}
+
+.izquierda{
+    margin-left: -400px;
+
+
+}
+.derecha{
+    margin-left: 370px;
+    margin-top: -470px;
+    font-size: 20px;
+   
+}
+
+
+.form_hijo{
+    margin-top: 20px;
+    font-size: 30px;
+
+}
+
+.nombres_form{
+    font-size: 25px;
+    background-color: rgba(210, 105, 30, 0.566);
+    border-radius: 6px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+/*  input{
+    padding: 8px;
+    margin: 6px 0px;
+    border: none;
+    border-bottom: 1px solid #cc382e;
+    background-color: transparent;
+} 
+ */
+
+.input_create{
+    padding: 8px;
+    margin: 6px 0px;
+    border: none;
+    border-bottom: 1px solid #151414;
+    background-color: transparent;
+
+}
+
+
+
+.btn_submit{
+    display: flex;
+    flex-direction:column;
+    margin-top: 80px;
+    margin-left: 70px;
+    background-color: rgb(255, 64, 0);
+    font-size: 25px;
+    padding-bottom: 30px 20px;
+    border-radius: 8px;
+    font-family:'Times New Roman', Times, serif;
+    transition: 1s ease;
+}
+
+.btn_submit:hover{
+    box-shadow: 0 0 2px #cefeaee1,
+    0 0 5px #cefeaee1,
+    0 0 10px #cefeaee1,
+    0 0 15px #cefeaee1;
+}
+
+.padre_btn {
+    display: flex;
+    margin-top: 80px;
+}
+
+
+.title_diets{
+    font-size: 25px;
+    background-color: rgba(210, 105, 30, 0.566);
+    border-radius: 6px;
+    margin-top: 50px;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.form_hijo-diets{
+    margin-top: 5px;
+    font-size: 20px;
+    background-color: rgba(103, 66, 60, 0.389);
+    border-radius: 6px;
+}
+
+.nombres_diets{
+    font-size: 24px;
+    border-radius: 6px;
+    margin-top: 50px;
+   
+}
+
+.error{
+    margin-top:-5px;
+    font-size: 15px;
+    color: rgb(62, 59, 59);
+}
