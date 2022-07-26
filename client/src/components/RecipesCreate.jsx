@@ -172,7 +172,7 @@ export default function  CreateRecipe() {
                 <div className="padre_btn"> 
                     {
                        ((input.name!="") && (input.summary!="") && (input.healthScore > 0 && input.healthScore<101))?
-                        <button  className="btn_submit" type="submit">Create Recipe </button>
+                        <button  className="btn_submit" type="submit">Create Recipe! </button>
                         : <button className="btn_submit" > incomplete required fields </button>
                     }
                 </div>
